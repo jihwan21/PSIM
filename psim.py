@@ -7,7 +7,7 @@ class PSIM:
         self.anchor = anchor
         self.joint1 = joint1
         self.joint2 = joint2
-        self.joint3= joint3
+        self.joint3 = joint3
 
         # if position == p1:
         #     joint1 = joints3d[0][12] # Neck
